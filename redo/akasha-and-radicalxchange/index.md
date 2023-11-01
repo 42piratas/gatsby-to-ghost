@@ -1,9 +1,9 @@
 ---
-title: 'X1 '
+title: 'At RadicalxChange in Detroit '
 date: '2019-03-24'
 author: 
 - Philip Sheldrake
-hero: https://blog.akasha.org/content/images/2023/10/akasha-and-radicalxchange-radicalxchange-taubman-center-detroit-8.jpg
+hero: https://blog.akasha.org/content/images/2023/11/akasha-and-radicalxchange-radicalxchange-taubman-center-detroit.jpg
 featured: false
 appLink: 
 category:
@@ -15,7 +15,7 @@ The building in this photo has a fascinating history. The *A. Alfred Taubman Cen
 
 Formerly owned by General Motors and known then as the Argonaut building, it hosted the world's first dedicated automotive design studio. The Corvette was born here, as too the world's first fully automatic transmission, engine-driven fuel pumps, freon, room-sized air conditioners, and, rather surprisingly, the [heart lung machine](https://jalopnik.com/how-a-car-company-built-the-worlds-first-mechanical-hea-5822972).
 
-![Original 1953 Chevrolet Corvette C1](https://blog.akasha.org/content/images/2023/10/akasha-and-radicalxchange-chevrolet-corvette-c1-1953-8.jpg)
+![Original 1953 Chevrolet Corvette C1](https://blog.akasha.org/content/images/2023/11/akasha-and-radicalxchange-akasha-and-radicalxchange-chevrolet-corvette-c1-1953.jpg)
 _[Original 1953 Chevrolet Corvette C1](https://en.wikipedia.org/wiki/Chevrolet_Corvette_C1)_
 
 It's the perfect location then — in the innovation context — for the inaugural conference kindled by the [Radical Markets](http://radicalmarkets.com/) book by Eric Posner and Glen Weyl. The book's preface provides the perfect introduction to this gathering:
